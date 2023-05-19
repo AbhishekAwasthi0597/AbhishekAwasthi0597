@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekawasthi0597&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekawasthi0597" /> </p>
 
-- 🔭 I’m currently working on **Snake and Ladder**
+- 🔭 I’m currently working on **Intagram,Doctor App and Restaurent Api**
 
 - 🌱 I’m currently learning **Html,CSS,JavaScript**
 
-- 💬 Ask me about **Java ,Spring Boot**
+- 💬 Ask me about **Java ,Spring Boot,Hibernate and my SQL**
 
 - 📫 How to reach me **abhishekawasthi0597@gmail.com**
 
