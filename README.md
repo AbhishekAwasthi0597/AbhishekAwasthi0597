@@ -43,7 +43,7 @@
   <p align="center">
   <a href="#"><img width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekawasthi0597&hide_border=true&theme=merko"></a></p>
 </details>
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+
 
 <p align="center">LUCKY VISITOR NUMBER</br><img title="title" align="center" alt="abhishekawasthi0597" width="200" src="https://profile-counter.glitch.me/abhishekawasthi0597/count.svg" /></p>
 
