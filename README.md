@@ -32,11 +32,12 @@
 <a href="https://leetcode.com/awasthiabhishek118/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/awasthiabhishek118/" height="30" width="40" /></a>
 </p>
 <h3> 💻 GITHUB STATS</h3>
-<p align="center"><a href="#"><img alt="Abhishek Awasthi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekawasthi0597&show_icons=true&theme=merko" height="192px" width="360px"></a><br>
+<a href=""> <img align="Abhishek Awasthi's Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abhishekawasthi0597&theme=react&line_height=40&hide=css"/> </a>
 </p>
   <p align="center">
-  <a href="#"><img alt="Abhishek Awasthi's Github Stats" src=https://github-readme-stats.vercel.app/api?username=abhishekawasthi0597&theme=merko&show_icons=true" height="192px" width="430px"></a>
-  </p>
+  </p><a href="#">
+  <img alt="" src="https://github-readme-stats.vercel.app/api?username=abhishekawasthi0597&theme=merko&show_icons=true" height="192px" width="430px">
+</a>
   
 <details>	
   <summary><b> Github Streaks 🔥</b></summary><br>
